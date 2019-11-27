@@ -19,5 +19,6 @@ public class UserMapperTest {
     @Test
     public void test002(){
         System.out.println(this.userMapper.queryUserById(1l));
+        System.out.println("nihao1a1");
     }
 }
